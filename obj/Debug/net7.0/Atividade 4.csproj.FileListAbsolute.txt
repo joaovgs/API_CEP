@@ -1,0 +1,36 @@
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\appsettings.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Files\cities.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Files\countries.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Files\states.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Atividade 4.exe
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Atividade 4.deps.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Atividade 4.runtimeconfig.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Atividade 4.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Atividade 4.pdb
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets\msbuild.Atividade 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets\msbuild.build.Atividade 4.props
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Atividade 4.props
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Atividade 4.props
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\scopedcss\bundle\Atividade 4.styles.css
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.csproj.CopyComplete
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\refint\Atividade 4.dll
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.pdb
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\Atividade 4.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Área de Trabalho\Atividade 4\obj\Debug\net7.0\ref\Atividade 4.dll
